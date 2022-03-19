@@ -1,0 +1,8 @@
+DATA GAP ALERTS FOR CLIENT-PROVIDED GENERATION DATA
+
+
+-- Multiple levels of escalation depending on time since data (levels)
+
+-- Contacts available at https://docs.google.com/spreadsheets/d/1b7BJE2V26X31IqAUn0RGJK8kMME51bb1XM2G_iXmo6k/.
+   Edit the sheet to reflect in the next run (hourly check).
+
